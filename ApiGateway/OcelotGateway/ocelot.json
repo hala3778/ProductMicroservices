@@ -1,0 +1,23 @@
+{
+"Routes": [
+{
+"UpstreamPathTemplate": "/products/{everything}",
+"UpstreamHttpMethod": [
+"Get",
+"Post",
+"Put",
+"Delete"
+],
+"DownstreamPathTemplate": "/api/Products/{everything}",
+"DownstreamScheme": "https",
+"DownstreamHostAndPorts": [
+{
+"Host": "localhost",
+"Port": 5016
+}]
+}
+],
+"GlobalConfiguration": {
+"BaseUrl": "https://localhost: 5016"
+}
+}
