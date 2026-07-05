@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OcelotGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+148ecb921ced14e2e2dbe6dd5767a0b6895f471d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8626c9e77a845f65b59bb1cdb2630e2cd1e95a19")]
 [assembly: System.Reflection.AssemblyProductAttribute("OcelotGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OcelotGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
